@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+B:/University/Year 1/Term 2/SOFT10101 - Computer Science Programming/C++ Project/Coursework/Customer.h
+iostream
+-
+string
+-
+random
+-
+
+B:/University/Year 1/Term 2/SOFT10101 - Computer Science Programming/C++ Project/Coursework/Employee.h
+iostream
+-
+string
+-
+
+B:/University/Year 1/Term 2/SOFT10101 - Computer Science Programming/C++ Project/Coursework/Login.h
+iostream
+-
+string
+-
+
+B:/University/Year 1/Term 2/SOFT10101 - Computer Science Programming/C++ Project/Coursework/Main.cpp
+iostream
+-
+string
+-
+fstream
+-
+cstdio
+-
+cstdlib
+-
+ctime
+-
+Login.h
+B:/University/Year 1/Term 2/SOFT10101 - Computer Science Programming/C++ Project/Coursework/Login.h
+Employee.h
+B:/University/Year 1/Term 2/SOFT10101 - Computer Science Programming/C++ Project/Coursework/Employee.h
+Customer.h
+B:/University/Year 1/Term 2/SOFT10101 - Computer Science Programming/C++ Project/Coursework/Customer.h
+
